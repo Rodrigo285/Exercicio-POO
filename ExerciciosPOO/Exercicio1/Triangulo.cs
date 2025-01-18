@@ -6,7 +6,7 @@ namespace Exercicio1 {
 
         public double a, b, c;
         
-        public double area() {
+        public double Area() {
             double p = (a + b + c) / 2;
             return Math.Sqrt(p * (p - a ) * (p - b ) * (p - c));  
         }

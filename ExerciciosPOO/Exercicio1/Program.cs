@@ -27,7 +27,7 @@ namespace MyApp {
             y.b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.c = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double areax = x.Area();
+            double areax = x.Area(); //chamando o metodo
             double areay = y.Area();
 
             Console.WriteLine($"Area de X {areax.ToString("F4", CultureInfo.InvariantCulture)}");

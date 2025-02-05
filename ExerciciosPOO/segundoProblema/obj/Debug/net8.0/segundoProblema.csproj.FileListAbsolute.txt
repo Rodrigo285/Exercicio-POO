@@ -1,0 +1,15 @@
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.AssemblyInfoInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.AssemblyInfo.cs
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.csproj.CoreCompileInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.sourcelink.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\bin\Debug\net8.0\segundoProblema.exe
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\bin\Debug\net8.0\segundoProblema.deps.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\bin\Debug\net8.0\segundoProblema.runtimeconfig.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\bin\Debug\net8.0\segundoProblema.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\bin\Debug\net8.0\segundoProblema.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\refint\segundoProblema.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\segundoProblema.genruntimeconfig.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\segundoProblema\obj\Debug\net8.0\ref\segundoProblema.dll

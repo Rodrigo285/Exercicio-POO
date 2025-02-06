@@ -1,0 +1,15 @@
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\bin\Debug\net8.0\ExercicioFixacao3.exe
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\bin\Debug\net8.0\ExercicioFixacao3.deps.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\bin\Debug\net8.0\ExercicioFixacao3.runtimeconfig.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\bin\Debug\net8.0\ExercicioFixacao3.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\bin\Debug\net8.0\ExercicioFixacao3.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.AssemblyInfoInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.AssemblyInfo.cs
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.csproj.CoreCompileInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.sourcelink.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\refint\ExercicioFixacao3.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ExercicioFixacao3.genruntimeconfig.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioFixacao3\obj\Debug\net8.0\ref\ExercicioFixacao3.dll

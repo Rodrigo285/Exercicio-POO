@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace ExercicioFixacao3 {
-     internal class Program {
+    internal class Program {
         static void Main(string[] args) {
 
             Aluno aluno1 = new Aluno();
@@ -25,10 +25,10 @@ namespace ExercicioFixacao3 {
                 Console.WriteLine("FALTARAM "
                     + aluno1.NotaRestante().ToString("F2", CultureInfo.InvariantCulture)
                     + " PONTOS");
-            
-            }
 
+            }
 
         }
     }
 }
+

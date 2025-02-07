@@ -1,0 +1,15 @@
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\bin\Debug\net8.0\ExercicioMembrosStaticos.exe
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\bin\Debug\net8.0\ExercicioMembrosStaticos.deps.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\bin\Debug\net8.0\ExercicioMembrosStaticos.runtimeconfig.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\bin\Debug\net8.0\ExercicioMembrosStaticos.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\bin\Debug\net8.0\ExercicioMembrosStaticos.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.AssemblyInfoInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.AssemblyInfo.cs
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.csproj.CoreCompileInputs.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.sourcelink.json
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\refint\ExercicioMembrosStaticos.dll
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.pdb
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ExercicioMembrosStaticos.genruntimeconfig.cache
+D:\projetosC#\Exercicio-POO\ExerciciosPOO\ExercicioMembrosStaticos\obj\Debug\net8.0\ref\ExercicioMembrosStaticos.dll
